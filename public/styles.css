@@ -1,0 +1,20 @@
+#firstRow{
+  display:flex;
+  margin-bottom:5%;
+}
+
+#bid-buy{
+  padding-left:10%;
+}
+
+#ratings_reviews{
+  margin-left:10%;
+  margin-right:10%;
+  border: solid 1px #E0E0E0;
+}
+
+#Main {
+  margin-top:10%;
+  margin-left:10%;
+  margin-right:10%;
+}
